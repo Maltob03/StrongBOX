@@ -43,7 +43,7 @@
 
 Strongbox is a powerful password manager app designed to offer secure and convenient storage for all your sensitive information. Developed as a learning project, this app serves as an excellent opportunity to explore and implement key iOS technologies, including **CoreData**, **LocalAuthentication**, and **CryptoKit**.
 
-## Features
+## Features
 
 * **Efficient Data Management:** Strongbox leverages the capabilities of CoreData, a robust framework provided by Apple, to efficiently handle the storage and retrieval of your passwords. This ensures a seamless and responsive user experience.
 * **Enhanced Security:** Your privacy and security are paramount. Strongbox integrates LocalAuthentication, allowing you to unlock the app using biometric authentication methods like Touch ID or Face ID. This ensures that only authorized individuals can access your stored passwords and sensitive information.
