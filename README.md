@@ -32,10 +32,11 @@
   <a href="#license">License</a>
 </p>
 -->
-
+<div align="center">
 <div style="display: flex; justify-content: center;">
   <a><img src="https://res.cloudinary.com/maltob03/image/upload/v1684678524/IMG_0475_tq0dna.png" width="200"></a>
   <a style="margin-left: 10px;"><img src="https://res.cloudinary.com/maltob03/image/upload/v1684678525/IMG_0476_xmbviz.png" width="200"></a>
+</div>
 </div>
 
 
