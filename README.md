@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://res.cloudinary.com/maltob03/image/upload/v1684678175/LockerAppIcon_hcumxn.png" width="200"></a>
+  <a><img src="https://res.cloudinary.com/maltob03/image/upload/v1684789519/strongbox_cclb0u.png" width="200"></a>
   <br>
   StrongBOX
   <br>
